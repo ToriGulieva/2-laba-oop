@@ -1,0 +1,11 @@
+Motorcycle
+Toyota
+4
+Model_1
+10
+Model_2
+70000
+Camry
+2000000
+Corolla
+1500000
